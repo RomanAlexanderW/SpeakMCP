@@ -53,7 +53,7 @@
     "@speakmcp/shared": "workspace:^",
     "ai": "^6.0.3",
     "ajv": "^8.17.1",
-    "fastify": "^5.6.1",
+    "fastify": "^5.8.5",
     "highlight.js": "^11.11.1",
     "openai": "^5.10.2",
     "qrcode": "^1.5.4",
@@ -91,7 +91,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.13",
-    "electron": "^31.0.2",
+    "electron": "^39.8.5",
     "electron-builder": "^24.13.3",
     "electron-updater": "^6.1.7",
     "electron-vite": "^2.3.0",
@@ -107,15 +107,15 @@
     "tailwindcss": "^3.4.13",
     "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.6.3",
-    "vite": "^5.4.8",
+    "vite": "^6.4.3",
     "vite-tsconfig-paths": "^5.0.1",
-    "vitest": "^1.6.0"
+    "vitest": "^3.2.6"
   },
   "optionalDependencies": {
     "langfuse": "^3.38.6",
     "onnxruntime-node": "^1.19.2",
     "sherpa-onnx-node": "^1.12.23",
-    "tar": "^7.5.6",
+    "tar": "^7.5.16",
     "unbzip2-stream": "^1.4.3"
   },
   "packageManager": "pnpm@9.12.1+sha512.e5a7e52a4183a02d5931057f7a0dbff9d5e9ce3161e33fa68ae392125b79282a8a8a470a51dfc8a0ed86221442eb2fb57019b0990ed24fab519bf0e1bc5ccfc4"
